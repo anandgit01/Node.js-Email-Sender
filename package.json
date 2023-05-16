@@ -1,0 +1,16 @@
+{
+  "name": "SMTP Implementation on node.js",
+  "version": "1.0.0",
+  "description": "SMTP Implementation on node.js With nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Anand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.2"
+  }
+}
